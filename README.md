@@ -1,4 +1,3 @@
 # python_tetris
-----
-Hello
-----
+- py
+- game
