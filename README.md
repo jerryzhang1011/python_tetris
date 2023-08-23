@@ -1,3 +1,4 @@
 # python_tetris
-- py
-- game
+```
+print("Hello world")
+```
